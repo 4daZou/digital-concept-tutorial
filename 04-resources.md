@@ -46,4 +46,4 @@
 4. Work on small projects
 5. Participate in community challenges
 
-[← Previous: Real-World Applications](03-applications.md)
+[Home](README.md) | [← Previous: Real-World Applications](03-applications.md)
