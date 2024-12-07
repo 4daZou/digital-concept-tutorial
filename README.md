@@ -14,3 +14,5 @@ Introduction to Machine Learning
 Types of Machine Learning
 Real-World Applications of Machine Learning
 Resources for Further Learning
+
+[Home](README.md) | [Next: Introduction to Machine Learning](introduction.md)
