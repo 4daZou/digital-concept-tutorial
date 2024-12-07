@@ -1,6 +1,6 @@
 # What is Machine Learning?
 
-**Author:** [Dami Adepoju]
+By: Dami Adepoju
 ## Purpose and Summary
 The goal of this tutorial is to simplify Machine Learning (ML) by providing a comprehensive yet accessible introduction to the technology. We'll explore the fundamental concepts, different types of machine learning, and how it's applied in the real world.
 
