@@ -47,5 +47,5 @@ Machine learning can be categorized into three types, each with unique character
 - **Unsupervised**: When exploring data patterns
 - **Reinforcement**: For complex decision-making scenarios
 
-[← Previous: Introduction](01-introduction.md) | [Next: Real-World Applications →](03-applications.md)
+[Previous: Introduction](01-introduction.md) | [Next: Real-World Applications](03-applications.md)
 
