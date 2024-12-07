@@ -33,4 +33,4 @@ By the end of this tutorial, you will:
 - Know where to continue your learning journey
 
 
-[Home](README.md) | [Next: Introduction to Machine Learning](introduction.md)
+[Home](README.md) | [Next: Introduction to Machine Learning](01-introduction.md)
