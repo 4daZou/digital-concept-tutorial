@@ -43,4 +43,4 @@ Imagine teaching a child to recognize different types of fruit:
    - Continuously refine the model
 
 
-[Home](README.md) | [Next: Types of Machine Learning](types.md).
+[Home](README.md) | [Next: Types of Machine Learning](02-types.md).
