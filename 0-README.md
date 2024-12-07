@@ -5,7 +5,7 @@
 The goal of this tutorial is to simplify Machine Learning (ML) by providing a comprehensive yet accessible introduction to the technology. We'll explore the fundamental concepts, different types of machine learning, and how it's applied in the real world.
 
 ## Target Audience
-- Beginners with minimal or no prior knowledge of Machine Learning
+- Beginners with little or no prior knowledge of Machine Learning
 - Students curious about artificial intelligence
 - Professionals looking to understand ML basics
 - Hobbyists interested in technology and data science
